@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 -   **Classification of Document Codes using Convolutional Neural Networks**  
-    Jun. 2018 - Present with  *Doosan Heavy Industries*
+    Jun. 2018 ~ Present with  *Doosan Heavy Industries*
 
 ### Open Source Contributions
 
