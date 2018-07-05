@@ -20,14 +20,14 @@ Computer Vision, Deep Learning, Open Source
 **English Conversation Instructor**, [Culture Republic Gangnam](https://cafe.naver.com/culturerepublic99), Jul. 2016 ~ Feb. 2018, *Worked as an English conversation instructor for intermediate & beginner level students.*
 
 ### Research Experience
-**Undergraduate Research Assistant**,  Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018
+**Undergraduate Research Assistant**,  Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018.
 
 
-**Undergraduate Research Intern**, Data Engineering Lab, Sogang University, Aug. 2016 ~ Sep. 2016
+**Undergraduate Research Intern**, Data Engineering Lab, Sogang University, Aug. 2016 ~ Sep. 2016.
 
 
 ### Campus Activities
-**Tech Evangelist**, [Microsoft Student Partners](https://msdn.microsoft.com/ko-kr/microsoftstudentpartners.aspx), Feb 2017 ~ Feb. 2018, 
+**Tech Evangelist**, [Microsoft Student Partners](https://msdn.microsoft.com/ko-kr/microsoftstudentpartners.aspx), Feb 2017 ~ Feb. 2018. 
 - Mastering Gomoku @ Sogang University, Nov. 2017
 - Machine Learning Seminar @ D.CAMP, Sep. 2017
 - Before and After, the AI Winter @ Sogang University, May. 2017
@@ -47,6 +47,7 @@ Computer Vision, Deep Learning, Open Source
 
 ### Skills
 Programming: Python, C, C++, Swift
+
 Human Languages: English(TOEIC 985, OPIc AL), Korean(Native)
 
 ### Contact me
