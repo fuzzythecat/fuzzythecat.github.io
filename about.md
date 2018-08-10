@@ -15,7 +15,7 @@ Computer Vision, Deep Learning, Open Source
 ### Work Experience
 - **Junior Developer**, [Selvas AI](https://www.selvasai.com/) , Mar. 2018 ~ Present, *Alternative military service. Developing deep learning based computer vision software.*
 
-- **Intern**, [Headstart Silicon Valley](http://www.headstartsv.com/), Aug. 2017 ~ Sep. 2017, *Designed step-by-step machine learning project “Forecasting Temperature in San Jose Area” for educational purposes as an intern.*
+- **Intern**, [Headstart Silicon Valley](http://www.headstartsv.com/), Aug. 2017 ~ Sep. 2017, *Designed step-by-step machine learning project “Forecasting Temperature in San Jose Area” for educational purposes.*
 
 - **English Conversation Instructor**, [Culture Republic Gangnam](https://cafe.naver.com/culturerepublic99), Jul. 2016 ~ Feb. 2018
 
@@ -33,6 +33,7 @@ Computer Vision, Deep Learning, Open Source
   - Before and After, the AI Winter @ Sogang University, May. 2017
   - M.L. Workshop @ APAC M.L. & Data Science Community Summit, May. 2017
 
+
 - **President**, [Release](http://release.sogang.ac.kr/)(computer science society) @ Sogang University, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hacakthons and workshops for students at Sogang.*
 
 ### Awards
@@ -43,7 +44,7 @@ Computer Vision, Deep Learning, Open Source
 
 ### Scholarships
 1. Naver Student Scholarship, Naver, Dec. 2017
-2. Scholarship for Excelling Grades, Sogang University, 2014 ~ 2016
+2. Scholarship for Excelling Grades, Sogang University, 2014 ~ 2015
 
 ### Skills
 - Programming: Python, C, C++, Swift
