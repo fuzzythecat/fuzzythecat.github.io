@@ -13,11 +13,11 @@ B.S. in Computer Science and Engineering from [Sogang University](http://www.sog
 Computer Vision, Deep Learning, Open Source
 
 ### Work Experience
-- **Junior Developer**, [Selvas AI](https://www.selvasai.com/) , Mar. 2018 ~ Present, *Working for alternative military service. Developing deep learning based computer vision software.*
+- **Junior Developer**, [Selvas AI](https://www.selvasai.com/) , Mar. 2018 ~ Present, *Alternative military service. Developing deep learning based computer vision software.*
 
 - **Intern**, [Headstart Silicon Valley](http://www.headstartsv.com/), Aug. 2017 ~ Sep. 2017, *Designed step-by-step machine learning project “Forecasting Temperature in San Jose Area” for educational purposes as an intern.*
 
-- **English Conversation Instructor**, [Culture Republic Gangnam](https://cafe.naver.com/culturerepublic99), Jul. 2016 ~ Feb. 2018, *Worked as an English conversation instructor for intermediate & beginner level students.*
+- **English Conversation Instructor**, [Culture Republic Gangnam](https://cafe.naver.com/culturerepublic99), Jul. 2016 ~ Feb. 2018
 
 ### Research Experience
 - **Undergraduate Research Assistant**,  Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018.
@@ -36,8 +36,8 @@ Computer Vision, Deep Learning, Open Source
 - **President**, [Release](http://release.sogang.ac.kr/)(computer science society) @ Sogang University, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hacakthons and workshops for students at Sogang.*
 
 ### Awards
-1. Naver D2 CAMPUS FEST Beyond FEST Award, Naver, Aug. 2017
-2. Naver D2 CAMPUS FEST 3rd place Award, Naver, Feb. 2017
+1. [Naver D2 CAMPUS FEST Beyond FEST Award](https://github.com/D2CampusFest/4th), Naver, Aug. 2017
+2. [Naver D2 CAMPUS FEST 3rd place Award](https://github.com/D2CampusFest/4th), Naver, Feb. 2017
 3. Best Evangelism Award, Microsoft Student Partners, Jul. 2017
 4. Best Evangelism Award, Microsoft Student Partners, Feb. 2018
 
