@@ -31,7 +31,7 @@ Computer Vision, Deep Learning, Open Source
   - Mastering Gomoku @ Sogang University, Nov. 2017
   - Machine Learning Seminar @ D.CAMP, Sep. 2017
   - Before and After, the AI Winter @ Sogang University, May. 2017
-  - M.L. Workshop @ APAC M.L. & Data Science Community Summit, May. 2017
+  - [M.L. Workshop @ APAC M.L. & Data Science Community Summit](https://github.com/APAC-EVENT/Mission-Mars), May. 2017
 
 
 - **President**, [Release](http://release.sogang.ac.kr/)(computer science society) @ Sogang University, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hacakthons and workshops for students at Sogang.*
