@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a machine learning engineer at [Selvas AI](https://www.selvasai.com/en/), where I work hard to bring computer vision and deep learning to life in applications. Previously, I worked on medical imaging projects with [Yoon-Chul Kim](https://www.researchgate.net/profile/Yoon-Chul_Kim) at Samsung Medical Center, and gave various talks on deep learning as a member of Microsoft Student Partners. Recently, I also have been contributing to popular open source projects including [Keras](https://github.com/keras-team/keras/commits?author=fuzzythecat) and [matplotlib](https://github.com/matplotlib/matplotlib/commits?author=fuzzythecat).
+I am a machine learning engineer at [Selvas AI](https://www.selvasai.com/en/), where I work hard to bring computer vision and deep learning to life in applications. Previously, I worked on medical imaging projects with [Yoon-Chul Kim](https://www.researchgate.net/profile/Yoon-Chul_Kim) at [Samsung Medical Center](https://www.researchgate.net/institution/Samsung_Medical_Center), and gave various talks on deep learning as a member of [Microsoft Student Partners](https://studentpartners.microsoft.com/en-US). Recently, I also have been contributing to popular open source projects including [Keras](https://github.com/keras-team/keras/commits?author=fuzzythecat) and [matplotlib](https://github.com/matplotlib/matplotlib/commits?author=fuzzythecat).
 
 ### Education
 B.S. in Computer Science and Engineering from [Sogang University](http://www.sogang.ac.kr/index.do), *Graduated with Magna Cum Laude.*
@@ -38,6 +38,7 @@ Computer Vision, Deep Learning, Open Source
 2. [Naver D2 CAMPUS FEST 3rd place Award](https://github.com/D2CampusFest/4th), Naver, Feb. 2017
 3. Best Evangelism Award, Microsoft Student Partners, Jul. 2017
 4. Best Evangelism Award, Microsoft Student Partners, Feb. 2018
+5. [2018 Contributhon Bronze Award](https://www.kosshackathon.kr/prize), Ministry of Science and ICT, Nov. 2018
 
 ### Scholarships
 1. Naver Student Scholarship, Naver, Dec. 2017
