@@ -35,15 +35,17 @@ Computer Vision, Deep Learning, Open Source
 - **President**, [Release](http://release.sogang.ac.kr/)(computer science society) @ Sogang University, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hacakthons and workshops for students at Sogang.*
 
 ### Awards
-1. [Naver D2 CAMPUS FEST Beyond FEST Award](https://github.com/D2CampusFest/4th), Naver, Aug. 2017
-2. [Naver D2 CAMPUS FEST 3rd place Award](https://github.com/D2CampusFest/4th), Naver, Feb. 2017
-3. Best Evangelism Award, Microsoft Student Partners, Jul. 2017
-4. Best Evangelism Award, Microsoft Student Partners, Feb. 2018
-5. [2018 Contributhon Bronze Award](https://www.kosshackathon.kr/prize), Ministry of Science and ICT, Nov. 2018
+- [Naver D2 CAMPUS FEST Beyond FEST Award](https://github.com/D2CampusFest/4th), Naver, Aug. 2017
+- [Naver D2 CAMPUS FEST 3rd place Award](https://github.com/D2CampusFest/4th), Naver, Feb. 2017
+- Best Evangelism Award, Microsoft Student Partners, Jul. 2017
+- Best Evangelism Award, Microsoft Student Partners, Feb. 2018
+- [2018 Contributhon Bronze Award](https://www.kosshackathon.kr/prize), Ministry of Science and ICT, Nov. 2018
+- [2019 Contributhon Silver Award](https://www.oss.kr/contributhon_notice/show/97fbde9f-3854-428d-b6ec-294002463148), Ministry of Science and ICT, Dec. 2019
 
 ### Scholarships
-1. Naver Student Scholarship, Naver, Dec. 2017
-2. Scholarship for Excelling Grades, Sogang University, 2014 ~ 2015
+- Naver Student Scholarship, Naver, Dec. 2017
+- Honors Scholarship, Sogang University, Spring ~ Fall 2014
+  - *This scholarship is awarded to students with outstanding academic achievement.*
 
 ### Skills
 - Programming: Python, C, C++, Swift
