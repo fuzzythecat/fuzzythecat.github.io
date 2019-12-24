@@ -6,8 +6,12 @@ permalink: /publications/
 
 ### Journals
 
-- Yoon-Chul Kim, **Younjoon Chung,** and Yeon Hyeon Choe, “Automatic localization 
-of anatomical landmarks in cardiac MR perfusion using random forests,” *Biomedical Signal Processing and Control, Vol. 38, pp. 370-378, September 2017. [SCIE]*
+- Yoon-Chul Kim, **Younjoon Chung,** and Yeon Hyeon Choe, "Automatic localization 
+of anatomical landmarks in cardiac MR perfusion using random forests", *Biomedical Signal Processing and Control, Vol. 38, pp. 370-378, September 2017. [SCIE]*
+
+- Yoon-Chul Kim, Khu Rai Kim, Kwanghee Choi, Minwoo Kim, **Younjoon Chung,** Yeon
+Hyeon Choe, "EVCMR: A tool for the quantitative evaluation and visualization of
+cardiac MRI data", *COMPUTERS IN BIOLOGY AND MEDICINE, 2019. [SCIE]*
 
 ### International Conferences
 
