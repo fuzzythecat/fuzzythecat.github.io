@@ -33,7 +33,6 @@ Computer Vision, Deep Learning, Open Source
   - Before and After, the AI Winter @ Sogang University, May. 2017
   - [M.L. Workshop @ APAC M.L. & Data Science Community Summit](https://github.com/APAC-EVENT/Mission-Mars), May. 2017  
 
-
 ### Awards
 - [Naver D2 CAMPUS FEST Beyond FEST Award](https://github.com/D2CampusFest/4th), Naver, Aug. 2017
 - [Naver D2 CAMPUS FEST 3rd place Award](https://github.com/D2CampusFest/4th), Naver, Feb. 2017
@@ -53,6 +52,11 @@ Computer Vision, Deep Learning, Open Source
 ### Skills
 - Programming: Python, C, C++
 - Human Languages: English(TOEIC 985, OPIc AL), Korean(Native)
+
+### Presentations
+
+- Gentle Introduction to Open Source @ [SOSCON](https://www.soscon.net/community.html), Oct. 2019
+- Keras Hands-on Lab @  [2019 Global AI Bootcamp - Seoul](https://festa.io/events/772), Dec. 2019
 
 ### Contact me
 
