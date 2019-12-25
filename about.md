@@ -14,9 +14,7 @@ I am a machine learning engineer at [Selvas AI](https://www.selvasai.com/en/), w
 Computer Vision, Deep Learning, Open Source
 
 ### Work Experience
-- **Junior Developer**, [Selvas AI](https://www.selvasai.com/), Mar. 2018 ~ Present, *Alternative military service. Developing deep learning based computer vision software.*
-
-- **English Conversation Instructor**, [Culture Republic Gangnam](https://cafe.naver.com/culturerepublic99), Jul. 2016 ~ Feb. 2018
+- **Developer**, [Selvas AI](https://www.selvasai.com/), Mar. 2018 ~ Present, *Alternative military service. Developing deep learning based computer vision software.*
 
 ### Research Experience
 - **Undergraduate Research Assistant**, Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018.
