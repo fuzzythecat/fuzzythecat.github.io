@@ -16,6 +16,8 @@ Computer Vision, Deep Learning, Open Source
 ### Work Experience
 - **Developer**, [Selvas AI](https://www.selvasai.com/), Mar. 2018 ~ Present, *Alternative military service. Developing deep learning based computer vision software.*
 
+- **Committee Member**, [Keras Korea](https://www.facebook.com/groups/KerasKorea), January. 2019 ~ Present, *Keras Korea is one of the most active developer communities in Korea.*
+
 ### Research Experience
 - **Undergraduate Research Assistant**, Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018.
 
