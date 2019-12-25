@@ -51,7 +51,7 @@ Computer Vision, Deep Learning, Open Source
   - *Designed step-by-step machine learning tutorial “Forecasting Temperature in San Jose Area.”*
 
 ### Skills
-- Programming: Python, C, C++, Swift
+- Programming: Python, C, C++
 - Human Languages: English(TOEIC 985, OPIc AL), Korean(Native)
 
 ### Contact me
