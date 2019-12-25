@@ -22,13 +22,15 @@ Computer Vision, Deep Learning, Open Source
 - **Undergraduate Research Intern**, Data Engineering Lab, Sogang University, Aug. 2016 ~ Sep. 2016.
 
 ### Campus Activities
+
+- **President**, [Release](http://release.sogang.ac.kr/)(computer science society) @ Sogang University, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
+
 - **Tech Evangelist**, [Microsoft Student Partners](https://msdn.microsoft.com/ko-kr/microsoftstudentpartners.aspx), Feb. 2017 ~ Feb. 2018.
   - Mastering Gomoku @ Sogang University, Nov. 2017
   - Machine Learning Seminar @ D.CAMP, Sep. 2017
   - Before and After, the AI Winter @ Sogang University, May. 2017
   - [M.L. Workshop @ APAC M.L. & Data Science Community Summit](https://github.com/APAC-EVENT/Mission-Mars), May. 2017  
 
-- **President**, [Release](http://release.sogang.ac.kr/)(computer science society) @ Sogang University, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
 
 ### Awards
 - [Naver D2 CAMPUS FEST Beyond FEST Award](https://github.com/D2CampusFest/4th), Naver, Aug. 2017
