@@ -5,7 +5,14 @@ permalink: /projects/
 ---
 
 -   **Classification of Document Codes using Convolutional Neural Networks**  
-    Jun. 2018 ~ Present with  *Doosan Heavy Industries & Construction*
+    Jun. 2018 ~ Feb. 2019 with *Doosan Heavy Industries & Construction*
+    - *Developed text classification models.*
+- **Deep Metadata**  
+  Sep.2019 ~ Present with *SK Telecom*
+  - *Developed text detection models.*
+  
+- [**Official Keras Korean Documentation**](https://github.com/keras-team/keras-docs-ko)  
+  Mar. 2019 ~ Present at *Keras Korea*   
 
 ### Open Source Contributions
 
