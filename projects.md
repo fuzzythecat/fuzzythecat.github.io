@@ -10,6 +10,7 @@ permalink: /projects/
   - *Supervised data preparation for OCR models.*
   - *Developed postprocessing methods for product page recognition.*
   
+  
 - [**Official Keras Korean Documentation**](https://github.com/keras-team/keras-docs-ko)  
   Mar. 2019 ~ Present at *Keras Korea*   
 
