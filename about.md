@@ -21,9 +21,9 @@ Computer Vision, Deep Learning, Open Source
 - **Committee Member**, [Keras Korea](https://www.facebook.com/groups/KerasKorea), January. 2019 ~ Present, *Keras Korea is one of the most active developer communities in Korea.*
 
 ### Research Experience
-- **Undergraduate Research Assistant**, Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018.
+- **Undergraduate Research Assistant**, Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018. *Developed deep learning based medical imaging models and GUI tools.*
 
-- **Undergraduate Research Intern**, Data Engineering Lab, Sogang University, Aug. 2016 ~ Sep. 2016.
+- **Undergraduate Research Intern**, Data Engineering Lab, Sogang University, Aug. 2016 ~ Sep. 2016. *Developed data preparation pipeline for NLP projects.*
 
 ### Campus Activities
 
