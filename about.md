@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a machine learning engineer at [Selvas AI](https://www.selvasai.com/en/), where I work hard to bring computer vision and deep learning to life in applications. Previously, I worked on medical imaging projects with [Yoon-Chul Kim](https://www.researchgate.net/profile/Yoon-Chul_Kim) at [Samsung Medical Center](https://www.researchgate.net/institution/Samsung_Medical_Center), and gave various talks on deep learning as a member of [Microsoft Student Partners](https://studentpartners.microsoft.com/en-US). Recently, I also have been contributing to popular open source projects including [Keras](https://github.com/keras-team/keras/commits?author=fuzzythecat) and [matplotlib](https://github.com/matplotlib/matplotlib/commits?author=fuzzythecat).
+I am a research scientist at [VUNO Inc.](https://vuno.co), where I work hard to bring computer vision and deep learning to life in applications. Previously, I worked on medical imaging projects with [Yoon-Chul Kim](https://www.researchgate.net/profile/Yoon-Chul_Kim) at [Samsung Medical Center](https://www.researchgate.net/institution/Samsung_Medical_Center), and gave various talks on deep learning as a member of [Microsoft Student Partners](https://studentpartners.microsoft.com/en-US). Recently, I have been contributing to popular open source projects including [Keras](https://github.com/keras-team/keras/commits?author=fuzzythecat). I am also in charge of the [official Korean translation of the Keras documentation](https://github.com/keras-team/keras-docs-ko). 
 
 ### Education
 - B.S. in Computer Science and Engineering from [Sogang University](http://www.sogang.ac.kr/index.do), *Graduated with Magna Cum Laude.*    
@@ -14,7 +14,9 @@ I am a machine learning engineer at [Selvas AI](https://www.selvasai.com/en/), w
 Computer Vision, Deep Learning, Open Source
 
 ### Work Experience
-- **Developer**, [Selvas AI](https://www.selvasai.com/), Mar. 2018 ~ Present, *Alternative military service. Developing deep learning based computer vision software.*
+- **Researcher**, [VUNO Inc.](https://vuno.co), Jul. 2020 ~ Present, *Alternative military service. Developing deep learning algorithms against various problems occurring in medical sites.* 
+
+- **Developer**, [Selvas AI](https://www.selvasai.com/), Mar. 2018 ~ June. 2020, *Alternative military service. Developed deep learning based computer vision software.*
 
 - **Committee Member**, [Keras Korea](https://www.facebook.com/groups/KerasKorea), January. 2019 ~ Present, *Keras Korea is one of the most active developer communities in Korea.*
 
