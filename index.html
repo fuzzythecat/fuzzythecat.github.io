@@ -1,18 +1,390 @@
----
-layout: default
----
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
 
-      <h1>{{ post.title }}</h1>
+<head>
+  <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+  <link rel="stylesheet" href="styles.css">
+  <script type="text/javascript" src="js/hidebib.js"></script>
+  <title>Younjoon Chung</title>
+  <meta name="Younjoon Chung's Homepage" http-equiv="Content-Type" content="Younjoon Chung's Homepage">
+  <link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic' rel='stylesheet' type='text/css'>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JVS3SNY6ZR"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-      <a href="{{ site.baseurl }}/about" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+    gtag('config', 'G-JVS3SNY6ZR');
+  </script>
+
+  <script src="https://kit.fontawesome.com/2ff36a40d1.js"></script>
+  <!-- academicons -->
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+</head>
+
+<body>
+<div class="container">
+  <table width="942" border="0" align="center" border="0" cellspacing="0" cellpadding="20"><tr><td>
+    
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <p align="center">
+        <pageheading> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Younjoon Chung &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</pageheading>
+        <!-- <p align=center class="info-icons">
+          <a href="mailto:fuzzy0427@gmail.com">Email</a> / 
+          <a href="https://fuzzythecat.github.io/YounjoonChung-CV.pdf">CV</a> /
+          <a href="https://scholar.google.com/citations?user=6DJbjxUAAAAJ&hl=en">Google Scholar</a> /
+          <a href="https://github.com/fuzzythecat">Github</a> / 
+          <a href="https://www.linkedin.com/in/younjoon-chung/">LinkedIn</a>
+        </p> -->
+      </p>
+
+      <tr>
+        <td width="30%" valign="top"><a href="images/self_photo.jpeg"><img src="images/self_photo.jpeg" width="100%" style="border-radius:15px"></a>
+        <p align=center>
+          <p align=center class="info-icons">
+          <a href="mailto:fuzzy0427@gmail.com">Email</a> |
+          <a href="https://fuzzythecat.github.io/YounjoonChung-CV.pdf">CV</a> |
+          <a href="https://scholar.google.com/citations?user=6DJbjxUAAAAJ&hl=en">Google Scholar</a> |
+          <a href="https://github.com/fuzzythecat">Github</a> |
+          <a href="https://www.linkedin.com/in/younjoon-chung/">LinkedIn</a>
+        </p>
+        </td>
+
+        <td width="71%" valign="top" align="justify">
+          <p> I am an incoming Research Associate at the <a href="http://humansensing.cs.cmu.edu/home">Human Sensing Lab</a> at <a href="https://www.cs.cmu.edu/">Carnegie Mellon University</a>.
+          My research interests lie in the intersection of machine learning, computer vision and healthcare. 
+          Specifically, I focus on developing responsible AI systems towards equitable healthcare.
+          </p>
+
+          <p>Previously, I was an M.S. in Computer Vision (MSCV) student in the Robotics Institute at Carnegie Mellon University, advised by <a href="https://https://www.cs.cmu.edu/~ftorre/">Prof. Fernando De la Torre</a>.
+          Before CMU, I was a research engineer at <a href="https://vuno.co/en/">VUNO Inc.</a>, where I developed algorithms for mobile digital radiography devices and computer-aided detection (CADe) systems. 
+          I also worked on various medical imaging projects with <a href="https://sites.google.com/yonsei.ac.kr/yoonckim/">Prof. Yoon-Chul Kim</a> at <a href="https://www.researchgate.net/institution/Samsung-Medical-Center">Samsung Medical Center</a>.
+          </p>
+          
+          <p>In my free time, I enjoy making contributions to open-source projects, playing tennis, and watching baseball.
+          I led the <a href="https://github.com/keras-team/keras-docs-ko">official Korean translation of the Keras documentation</a> project,
+          and have over 25+ commits merged in the Keras ecosystem.
+          </p>
+        </td>
+      </tr>
+    </table>
+
+<!-- <table style="margin-bottom: 0px;">
+  <tr>
+    <td align="center" width="20%">
+      <img src="images/resized_cmu.png" width="70%">
+    </td>
+    <td align="center" width="20%">
+      <img src="images/resized_vuno.png" width="80%">
+    </td>
+    <td align="center" width="20%">
+      <img src="images/resized_selvas.png" width="100%">
+    </td>
+    <td align="center" width="20%">
+      <img src="images/resized_smc.png" width="100%">
+    </td>
+    <td align="center" width="20%">
+      <img src="images/resized_sogang.png" width="40%">  
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.cs.cmu.edu/">CMU</a><br>MS in Computer Vision<br>Aug 2022 - Dec 2023</p>
+    </td>
+    <td align="center">
+      <a href="https://www.cs.cmu.edu/">CMU</a><br>Research Engineer<br>Aug 2022 - Dec 2023</p>
+    </td>
+    <td align="center">
+      <a href="https://www.cs.cmu.edu/">CMU</a><br>MS in Computer Vision<br>Aug 2022 - Dec 2023</p>
+    </td>
+    <td align="center">
+      <a href="https://www.cs.cmu.edu/">CMU</a><br>MS in Computer Vision<br>Aug 2022 - Dec 2023</p>
+    </td>
+    <td align="center">
+      <a href="https://www.cs.cmu.edu/">CMU</a><br>MS in Computer Vision<br>Aug 2022 - Dec 2023</p>
+    </td>
+  </tr>
+</table> -->
+
+
+    <!-- <table width="100%" align="center" style="margin-left:10px" cellspacing="0" cellpadding="0" border="0">
+      <tr>
+        <td width="20%" valign="top" align="center">
+          <img src="images/resized_cmu.png" alt="sym" width="92%"></a>
+          <p style="line-height:1.3; margin-top: 0;"><a href="https://www.cs.cmu.edu/">CMU</a><br>MS in Computer Vision<br>Aug 2022 - Dec 2023</p>
+        </td>
+
+        <td width="20%" valign="top" align="center">
+          <img src="images/resized_vuno.png" alt="sym" width="60%"></a>
+          <p style="line-height:1.3; margin-top: 0;"><a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research">VUNO</a><br>Research Engineer<br>Jun 2020 - Jun 2022</p>
+        </td>
+
+        <td width="20%" valign="top" align="center">
+          <img src="images/resized_selvas.png" alt="sym" width="108%"></a>
+          <p style="line-height:1.3; margin-top: 0;"><a href="https://www.cs.cmu.edu/">CMU</a><br>MS in Computer Vision<br>Aug 2022 - Dec 2023</p>
+        </td>
+
+        <td width="20%" valign="top" align="center">
+          <img src="images/resized_smc.png" alt="sym" width="100%"></a>
+          <p style="line-height:1.3; margin-top: 0;"><a href="https://www.goldmansachs.com/worldwide/india/">Goldman Sachs</a><br>Quantitative Risk Analyst<br>Jun 2021 - Jul 2022</p>
+        </td>
+
+        <td width="20%" valign="top" align="center">
+          <img src="images/resized_sogang.png" alt="sym" width="42%"></a>
+          <p style="line-height:1.3; margin-top: 0;"><a href="https://research.google/locations/india/">Sogang University</a><br>Google Research Intern<br>Jul 2021 - Sep 2021</p>
+        </td>
+      </tr>
+    </table> -->
+
+
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+      <tr><td>
+        <sectionheading>Recent Highlights</sectionheading>
+        <hr>
+        <table cellspacing="0">
+          <table cellspacing="0">
+          <tr></tr>
+          <tr>
+            <td width="5%"/>
+            <td width="2%" height="100%" style="color:black; font-family:'Times New Roman', Times; vertical-align: middle; font-size: 120%">&bull;</td>
+            <td width="70%" height="100%" valign="top" align="left"><highlighttext>Joining CMU School of Computer Science, Robotics Institute as a Research Associate, Spring 2024.</highlighttext></td>
+          </tr>
+          <tr>
+            <td width="5%"/>
+            <td width="2%" height="100%" style="color:black; font-family:'Times New Roman', Times; vertical-align: middle; font-size: 120%">&bull;</td>
+            <td width="90%" height="100%" valign="top" align="left"><highlighttext>Graduated from CMU M.S. in Computer Vision in Dec 2023, advised by Prof. Fernando De la Torre.</highlighttext></td>
+          </tr>
+
+          <tr>
+            <td width="5%"/>
+            <td width="2%" height="100%" style="color:black; font-family:'Times New Roman', Times; vertical-align: middle; font-size: 120%">&bull;</td>
+            <td width="90%" height="100%" valign="top" align="left"><highlighttext>Submitted a paper in CVPR 2024, Nov 2024. Fingers crossed!</highlighttext></td>
+          </tr>
+
+          <tr>
+            <td width="5%"/>
+            <td width="2%" height="100%" style="color:black; font-family:'Times New Roman', Times; vertical-align: middle; font-size: 120%">&bull;</td>
+            <td width="90%" height="100%" valign="top" align="left"><highlighttext>Published a paper in Physica Medica, with Prof. Yoon-Chul-Kim, Nov 2023. [<a class="underline" href="https://www.sciencedirect.com/science/article/abs/pii/S1120179723012218">Link</a>]</highlighttext></td>
+          </tr>
+
+          <tr>
+            <td width="5%"/>
+            <td width="2%" height="100%" style="color:black; font-family:'Times New Roman', Times; vertical-align: middle; font-size: 120%">&bull;</td>
+            <!-- <td width="1%" height="100%" valign="top" align="left"><highlightdate>Oct.</highlightdate></td>
+            <td width="2%" height="100%" valign="top" align="left"><highlightdate>2022:</highlightdate></td> -->
+            <td width="90%" height="100%" valign="top" align="left"><highlighttext>Joined CMU as an M.S. in Computer Vision student, Aug 2022.</highlighttext></td>
+          </tr>
+        </table>
+      </td></tr>
+    </table>
+
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tr><td>
+        <sectionheading>Publications</sectionheading>
+        <hr>
+        <!-- <span style="float:right;" ><b>*</b> denotes equal contribution</span> -->
+        
+        <table cellspacing="17">
+          <tr/>
+
+          <tr>
+            <td width="35%" valign="center" align="center" >
+              <a href="images/doge_method.png"><img width=100%s src="images/doge_method.png"></a>
+            </td>
+            <td width="65%" valign="top">
+              <div class="publication">
+                <table cellspacing="0" cellpadding="0">
+                  <tr><td width="100%">
+                    <paperheading>Domain Gap Embeddings for Generative Dataset Augmentation</paperheading>
+                  </td></tr>
+                  <tr><td width="100%">
+                    <authornames><u>Younjoon Chung</u>*, <u>Oliver Wang</u>*, Chen Wu, Fernando De la Torre</authornames>
+                  </td></tr>
+                  <tr><td width="100%"><b>Paper Submitted to CVPR 2024</b>&nbsp;&nbsp;</td></tr>
+                  <tr><td width="100%"><a href="https://arxiv.org/pdf/2303.16203"><b>
+                    <!-- Paper</b></a> |
+                    <a href="https://diffusion-classifier.github.io/"><b>Webpage</b></a> | 
+                    <a href="https://github.com/diffusion-classifier/diffusion-classifier"><b>Code</b></a> -->
+                  </td></tr>
+                  <!-- <tr><td width="100%"><br/></td></tr> -->
+                  
+                  <tr><td width="100%">
+                    <i>Few-shot, fine-tuning free pipeline for targeted dataset generation.</i>
+                  </td></tr>
+                </table>
+              </div>
+            </td>
+          </tr>
+          <tr/>
+          
+          <tr>
+            <td width="35%" valign="center" align="center" >
+              <a href="images/gadolinium_method.png"><img width=100%s src="images/gadolinium_method.png"></a>
+            </td>
+            <td width="65%" valign="top">
+              <div class="publication">
+                <table cellspacing="0" cellpadding="0">
+                  <tr><td width="100%">
+                    <paperheading>Deep learning for classification of late gadolinium
+                      enhancement lesions based on the 16-segment left ventricular model</paperheading>
+                  </td></tr>
+                  <tr><td width="100%">
+                    <authornames>Yoon-Chul Kim, <u>Younjoon Chung</u>, Yeon Hyeon Choe</authornames>
+                  </td></tr>
+                  <tr><td width="100%"><b>Physica Medica (2023)</b>&nbsp;&nbsp;</td></tr>
+                  <tr><td width="100%"><a href="https://www.physicamedica.com/article/S1120-1797(23)01221-8/pdf#%20"><b>Paper</b></a>
+
+                  </td></tr>
+                  <!-- <tr><td width="100%"><br/></td></tr> -->
+                  
+                  <tr><td width="100%">
+                    <i>Segmental analysis of myocardial late gadolinium enhancement (LGE) lesions.</i>
+                  </td></tr>
+                </table>
+              </div>
+            </td>
+          </tr>
+          <tr/>
+
+          <tr>
+            <td width="35%" valign="center" align="center" >
+              <a href="images/localization_method.png"><img width=100%s src="images/localization_method.png"></a>
+            </td>
+            <td width="65%" valign="top">
+              <div class="publication">
+                <table cellspacing="0" cellpadding="0">
+                  <tr><td width="100%">
+                    <paperheading>Automatic localization of anatomical landmarks
+                      in cardiac MR Perfusion using random forests</paperheading>
+                  </td></tr>
+                  <tr><td width="100%">
+                    <authornames>Yoon-Chul Kim, <u>Younjoon Chung</u>, Yeon Hyeon Choe</authornames>
+                  </td></tr>
+                  <tr><td width="100%"><b>Biomedical Signal Processing and Control (2017)</b>&nbsp;&nbsp;</td></tr>
+                  <tr><td width="100%"><a href="https://www.sciencedirect.com/science/article/pii/S1746809417301349"><b>Paper</b></a>
+
+                  </td></tr>
+                  <!-- <tr><td width="100%"><br/></td></tr> -->
+                  
+                  <tr><td width="100%">
+                    <i>Learning-based approach to distinguish landmarks and non-landmarks for LV center and RV insertion point.</i>
+                  </td></tr>
+                </table>
+              </div>
+            </td>
+          </tr>
+          <tr/>
+
+          <tr>
+            <td width="35%" valign="center" align="center" >
+              <a href="images/evcmr_method.png"><img width=100%s src="images/evcmr_method.png"></a>
+            </td>
+            <td width="65%" valign="top">
+              <div class="publication">
+                <table cellspacing="0" cellpadding="0">
+                  <tr><td width="100%">
+                    <paperheading>EVCMR: A tool for the quantitative evaluation and visualization of cardiac
+                      MRI data</paperheading>
+                  </td></tr>
+                  <tr><td width="100%">
+                    <authornames>Yoon-Chul Kim, Khu Rai Kim, Kwanghee Choi, Minwoo Kim, <u>Younjoon Chung</u>, Yeon Hyeon Choe</authornames>
+                  </td></tr>
+                  <tr><td width="100%"><b>Computers in Biology and Medicine (2019)</b>&nbsp;&nbsp;</td></tr>
+                  <tr><td width="100%"><a href="https://www.sciencedirect.com/science/article/pii/S0010482519302033"><b>Paper</b></a>
+
+                  </td></tr>
+                  <!-- <tr><td width="100%"><br/></td></tr> -->
+                  
+                  <tr><td width="100%">
+                    <i>Open-source CMR post-processing tool for evaluating cardiac MRI data.</i>
+                  </td></tr>
+                </table>
+              </div>
+            </td>
+          </tr>
+          <tr/>
+    </td></tr></table>
+
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tr><td>
+        <sectionheading>Patents</sectionheading>
+        <hr>
+        <table cellspacing="17">
+          <tr/>
+
+          <tr>
+            <td width="40%" valign="top">
+              <a href="images/patent1_method.png"><img width=100% src="images/patent1_method.png" border="0"></a>
+            </td>
+            <td width="62%" valign="top">
+              <div class="publication">
+                <table cellspacing="0" cellpadding="0">
+                
+                  <tr><td width="100%"><paperheading>
+                    <paperheading>Method to read chest image</paperheading>
+                  </paperheading></td>
+                  <tr><td width="100%">
+                    <paperheading><authornames>Beomhee Park, Minki Chung, Seo Taek Kong, <u>Younjoon Chung</u></authornames></paperheading>
+                  </td></tr>
+                  <tr><td width="100%">
+                    <paperheading>U.S. Patent Application 17/466,697, filed March 10, 2022.</paperheading>
+                    <tr><td><i>The method includes: determining whether or not to identify presence of cardiomegaly for a 
+                      chest image; detecting a lung region and a heart region respectively, and calculating a cardiothoracic 
+                      ratio of the chest image using the detected lung region and the detected heart region.</i></td></tr>
+                  </td></tr>
+                </table>
+              </div>
+            </td>
+
+          <tr>
+            <td width="40%" valign="top">
+              <a href="images/patent2_method.png"><img width=100% src="images/patent2_method.png" border="0"></a>
+            </td>
+            <td width="62%" valign="top">
+              <div class="publication">
+                <table cellspacing="0" cellpadding="0">
+                
+                  <tr><td width="100%"><paperheading>
+                    <paperheading>Method for detecting abnormal findings and generating interpretation text of medical image</paperheading>
+                  </paperheading></td>
+                  <tr><td width="100%">
+                    <paperheading><authornames>Minki Chung, Beomhee Park, Seo Taek Kong, <u>Younjoon Chung</u></authornames></paperheading>
+                  </td></tr>
+                  <tr><td width="100%">
+                    <paperheading>U.S. Patent Application 17/471,001, filed March 17, 2022.</paperheading>
+                    <tr><td><i>The method includes: generating anatomical location information for the one or more lesions using an anatomical analysis model, 
+                      and generating a diagnosis result for the received body medical image.</i></td></tr>
+                  </td></tr>
+                </table>
+              </div>
+            </td>
+            </table>
+
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <tr><td>
+        <sectionheading>Miscellaneous</sectionheading>
+        <hr>
+        <table cellspacing="5">
+          <tr><td>
+            <ul>
+              <li><highlighttext><b>Mentor</b>, CMU Undergraduate AI Mentoring Program (Fall 2023)</highlighttext></li>
+              <li><highlighttext><b>Committee Member</b>, Keras Korea (Mar 2018 - Present)</highlighttext></li>
+              <li><highlighttext><b>Technology Evangelist</b>, Microsoft Student Partners (Mar 2015 - Mar 2016)</highlighttext></li>
+            </ul>
+          </td></tr>
+        </table>
+      </td></tr>
+    </table>
+
+
+    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="10" style="padding-right:30px;">
+      <tr>
+        <td width="10%" valign="top" align="right"> Template adopted from: <a href="https://shivamduggal4.github.io/">1</a> and <a href="https://www.cs.cmu.edu/~dpathak/">2 </a>
+      </tr></td>
+    </table>
+
 </div>
+</body>
+</html>
