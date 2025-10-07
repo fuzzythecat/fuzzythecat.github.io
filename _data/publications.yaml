@@ -1,0 +1,21 @@
+papers:
+  - title: "ETA: Energy-based Test-time Adaptation for Depth Completion"
+    year: "2025"
+    authors: "<b><u>Younjoon Chung*</u></b>, Hyoungseob Park*, Patrick Rim*, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong"
+    venue: "ICCV 2025"
+    paper_pdf: "https://arxiv.org/pdf/2508.05989"
+    selected: y
+    
+  - title: "ProtoDepth: Unsupervised Continual DepthCompletion with Prototypes"
+    authors: "Patrick Rim, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, <b><u>Younjoon Chung</u></b>, Alex Wong"
+    venue: "CVPR 2025"
+    paper_pdf: "https://arxiv.org/pdf/2503.12745"
+    page: "https://protodepth.github.io/"
+    selected: y
+    
+  - title: "Domain Gap Embeddings for Generative Dataset Augmentation"
+    authors: "Yinong Oliver Wang*, <b><u>Younjoon Chung*</u></b>, Chen Henry Wu, Fernando De la Torre"
+    venue: "CVPR 2024"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Domain_Gap_Embeddings_for_Generative_Dataset_Augmentation_CVPR_2024_paper.pdf"
+    code: "https://github.com/humansensinglab/DoGE"
+    selected: y
