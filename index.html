@@ -156,11 +156,11 @@ layout: default
       {% for paper in site.data.publications.papers %}
         <div class="paper">
           <div class="row">
-            <div class="four columns">
+            <!-- <div class="four columns">
               <div class="figure">
                 <img src="{{ paper.image }}" width="100%">
               </div>
-            </div>
+            </div> -->
             <div class="twelve columns">
               {% if paper.year %}
               <p><h5>{{ paper.year }}</h5><hr /></p>
@@ -307,13 +307,13 @@ layout: default
   <p>I actively compete in USTA leagues and tournaments. Check out my USTA profile <a href="{{ site.data.main_info.usta_profile }}" target="_blank">here</a>!</p>
   <div class="row" style="margin-top: 20px;">
     <div class="four columns">
-      <img src="{{ '/assets/tennis/tennis1.jpg' | prepend: site.baseurl }}" alt="Younjoon playing tennis 1" class="u-max-full-width" style="border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin-bottom:10px;">
+      <img src="{{ '/assets/tennis/tennis1.jpg' | prepend: site.baseurl }}" alt="Younjoon playing tennis 1" class="u-max-full-width" style="width:100%; height:250px; object-fit: cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin-bottom:10px;">
     </div>
     <div class="four columns">
-      <img src="{{ '/assets/tennis/tennis2.jpg' | prepend: site.baseurl }}" alt="Younjoon playing tennis 2" class="u-max-full-width" style="border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin-bottom:10px;">
+      <img src="{{ '/assets/tennis/tennis2.jpg' | prepend: site.baseurl }}" alt="Younjoon playing tennis 2" class="u-max-full-width" style="width:100%; height:250px; object-fit: cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin-bottom:10px;">
     </div>
     <div class="four columns">
-      <img src="{{ '/assets/tennis/tennis3.jpg' | prepend: site.baseurl }}" alt="Younjoon playing tennis 3" class="u-max-full-width" style="border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin-bottom:10px;">
+      <img src="{{ '/assets/tennis/tennis3.jpg' | prepend: site.baseurl }}" alt="Younjoon playing tennis 3" class="u-max-full-width" style="width:100%; height:250px; object-fit: cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.08); margin-bottom:10px;">
     </div>
   </div>
 </div>
