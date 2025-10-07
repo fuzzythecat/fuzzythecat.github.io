@@ -15,7 +15,35 @@ papers:
     
   - title: "Domain Gap Embeddings for Generative Dataset Augmentation"
     authors: "Yinong Oliver Wang*, <b><u>Younjoon Chung*</u></b>, Chen Henry Wu, Fernando De la Torre"
+    year: "2024"
     venue: "CVPR 2024"
     paper_pdf: "https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Domain_Gap_Embeddings_for_Generative_Dataset_Augmentation_CVPR_2024_paper.pdf"
     code: "https://github.com/humansensinglab/DoGE"
+    selected: y
+
+  - title: "Deep learning for classification of late gadolinium enhancement lesions based on the 16-segment left ventricular model"
+    authors: "Yoon-Chul Kim, <b><u>Younjoon Chung</u></b>, Yeon Hyeon Choe"
+    venue: "Physica Medica"
+    paper_pdf: "https://www.physicamedica.com/article/S1120-1797(23)01221-8/pdf#%20"
+    selected: y
+
+  - title: "Utilizing synthetic nodules for improving nodule detection in chest radiographs"
+    authors: "Minki Chung, Seo Taek Kong, Beomhee Park, <b><u>Younjoon Chung</u></b>, Kyu-Hwan Jung, Joon Beom Seo"
+    year: "2022"
+    venue: "Journal of Digital Imaging"
+    paper_pdf: "https://link.springer.com/article/10.1007/s10278-022-00608-9"
+    selected: y
+
+  - title: "EVCMR: a tool for the quantitative evaluation and visualization of cardiac MRI data"
+    authors: "Yoon-Chul Kim, Khu Rai Kim, Kwanghee Choi, Minwoo Kim, <b><u>Younjoon Chung</u></b>, Yeon Hyeon Choe"
+    year: "2019"
+    venue: "Computers in Biology and Medicine"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0010482519302033"
+    selected: y
+
+  - title: "Automatic localization of anatomical landmarks in cardiac MR perfusion using random forests"
+    authors: "Yoon-Chul Kim, <b><u>Younjoon Chung</u></b>, Yeon Hyeon Choe"
+    year: "2017"
+    venue: "Biomedical Signal Processing and Control"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S1746809417301349"
     selected: y
