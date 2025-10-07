@@ -10,7 +10,7 @@ papers:
     authors: "Patrick Rim, Hyoungseob Park, S. Gangopadhyay, Ziyao Zeng, <b><u>Younjoon Chung</u></b>, Alex Wong"
     venue: "CVPR 2025"
     paper_pdf: "https://arxiv.org/pdf/2503.12745"
-    page: "https://protodepth.github.io/"
+    website: "https://protodepth.github.io/"
     selected: y
     
   - title: "Domain Gap Embeddings for Generative Dataset Augmentation"
