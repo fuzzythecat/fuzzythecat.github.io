@@ -1,4 +1,11 @@
 papers:
+  - title: "Iris: Integrating Language into Diffusion-based Monocular Depth Estimation"
+    year: "2026"
+    authors: "Ziyao Zeng, Jingcheng Ni, Daniel Wang, Patrick Rim, <b><u>Younjoon Chung</u></b>, Fengyu Yang, Byung-Woo Hong, Alex Wong"
+    venue: "CVPR 2026"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Zeng_Iris_Integrating_Language_into_Diffusion-based_Monocular_Depth_Estimation_CVPR_2026_paper.pdf"
+    selected: y
+
   - title: "ETA: Energy-based Test-time Adaptation for Depth Completion"
     year: "2025"
     authors: "<b><u>Younjoon Chung*</u></b>, Hyoungseob Park*, Patrick Rim*, Xiaoran Zhang, Jihe He, Ziyao Zeng, Safa Cicek, Byung-Woo Hong, James S. Duncan, Alex Wong"
@@ -32,7 +39,7 @@ papers:
     year: "2022"
     venue: "Journal of Digital Imaging"
     paper_pdf: "https://link.springer.com/article/10.1007/s10278-022-00608-9"
-    selected: y
+    selected: n
 
   - title: "EVCMR: a tool for the quantitative evaluation and visualization of cardiac MRI data"
     authors: "Yoon-Chul Kim, Khu Rai Kim, Kwanghee Choi, Minwoo Kim, <b><u>Younjoon Chung</u></b>, Yeon Hyeon Choe"
