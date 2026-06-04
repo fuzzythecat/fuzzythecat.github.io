@@ -1,0 +1,30 @@
+experiences:
+- place: "NASA Ames Research Center"
+  time: "Jun. 2026 - Present"
+  title: "Research Intern"
+  subtitle: "Advised by Divya Gopinath and Anastasia Mavridou"
+  category: "work"
+
+- place: "Yale University"
+  time: "Sep. 2025 - Present"
+  title: "Ph.D. in CBB"
+  subtitle: "Advised by Prof. Qingyu Chen and Prof. Lucila Ohno-Machado"
+  category: "school"
+
+- place: "Yale University"
+  time: "Aug. 2024 - Aug. 2025"
+  title: "Ph.D. in Computer Science"
+  subtitle: "Advised by Prof. Alex Wong"
+  category: "school"
+
+- place: "Carnegie Mellon University"
+  time: "Jan. 2024 - June. 2024"
+  title: "Research Associate"
+  subtitle: "Human Sensing Lab"
+  category: "work"
+
+- place: "Carnegie Mellon University"
+  time: "Aug. 2022 - Dec. 2023"
+  title: "M.S. in Computer Vision"
+  subtitle: "Advised by Prof. Fernando De la Torre"
+  category: "school"
